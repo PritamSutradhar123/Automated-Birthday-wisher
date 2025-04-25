@@ -8,8 +8,8 @@ import base64
 
 
 
-MY_EMAIL = "t92066369@gmail.com"
-PASSWORD = "wjpmwjfafqcnqdlo"  # Replace with your App Password
+MY_EMAIL = "<YOUR EMAIL>"
+PASSWORD = "YOUR APP PASSOWoRD"  # Replace with your App Password
 
 today = dt.datetime.now()
 data = pd.read_csv("birthdays.csv")
